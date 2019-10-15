@@ -1,3 +1,5 @@
+### Password Hashing Checker
+
 This Java (1.8) tool helps to check that your algorithm matches the algorithm that PingOne for Customers uses to read encoded
 passwords. You can compare your algorithm's output with the one you get from running this tool to see if they're
 compatible. 
